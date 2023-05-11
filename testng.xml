@@ -5,11 +5,12 @@
         <classes>
             <class name="org.api.tests.TestAllRequestsMethods">
                 <methods>
-<!--                    <include name="GetAllUsers"/>-->
-<!--                    <include name="GetSingleUser"/>-->
+                    <include name="GetAllUsers"/>
+                    <include name="GetSingleUser"/>
 <!--                    <include name="CreateUser"/>-->
 <!--                    <include name="UpdateUser"/>-->
-                    <include name="DeleteUser"/>
+<!--                    <include name="DeleteUser"/>-->
+                    
                 </methods>
             </class>
 
