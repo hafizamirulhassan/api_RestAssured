@@ -1,0 +1,1 @@
+{"uuid":"01dd0189-b00f-4323-ade3-c281f95bef94","name":"org.api.tests.TestAllRequestsMethods","children":["8683865b-db73-44d9-a853-ccdba6323bd6"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1683675067872,"stop":1683675069242}],"afters":[],"start":1683675067786,"stop":1683675074058}

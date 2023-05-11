@@ -1,0 +1,1 @@
+{"uuid":"ed31186c-b2db-4b9c-9f86-2358d37384d9","name":"org.api.tests.TestGETUser","children":["4350d041-8e83-443f-9104-15e9629aa757"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1683335151151,"stop":1683335152360}],"afters":[],"start":1683335151069,"stop":1683335153339}
