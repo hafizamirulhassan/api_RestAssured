@@ -9,8 +9,8 @@
                     <include name="GetSingleUser"/>
 <!--                    <include name="CreateUser"/>-->
 <!--                    <include name="UpdateUser"/>-->
-<!--                    <include name="DeleteUser"/>-->
                     
+<!--                    <include name="DeleteUser"/>-->
                 </methods>
             </class>
 
